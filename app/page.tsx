@@ -3,6 +3,10 @@ import Image from "next/image";
 const x= ;
 const y=;
 
+const a= ;
+const b=;
+
+
 export default function Home() {
   return (
     <div>
