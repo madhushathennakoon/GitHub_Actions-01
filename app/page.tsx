@@ -6,6 +6,12 @@ const y=;
 const a= ;
 const b=;
 
+const x= ;
+const y=;
+
+const a= ;
+const b=;
+
 
 export default function Home() {
   return (
