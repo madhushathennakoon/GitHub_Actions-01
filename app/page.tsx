@@ -1,5 +1,7 @@
 import Image from "next/image";
 
+const x= ;
+
 export default function Home() {
   return (
     <div>
