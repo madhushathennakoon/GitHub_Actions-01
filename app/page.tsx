@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 const x= ;
+const y=;
 
 export default function Home() {
   return (
